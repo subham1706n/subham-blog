@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -71,16 +70,26 @@
         <li><a href="YOUR_AMAZON_AFFILIATE_LINK">Realme Buds Classic</a></li>
         <li><a href="YOUR_AMAZON_AFFILIATE_LINK">JBL C100SI</a></li>
       </ul>
-    </section>
+    </section><section class="blog-post">
+  <h2>Best Smartwatches Under ₹2000</h2>
+  <p>Check out these amazing options for budget smartwatches:</p>
+  <ul>
+    <li><a href="YOUR_AMAZON_AFFILIATE_LINK">Noise ColorFit Pulse</a></li>
+    <li><a href="YOUR_AMAZON_AFFILIATE_LINK">boAt Wave Lite</a></li>
+  </ul>
+</section>
 
-    <section class="blog-post">
-      <h2>Best Smartwatches Under ₹2000</h2>
-      <p>Check out these amazing options for budget smartwatches:</p>
-      <ul>
-        <li><a href="YOUR_AMAZON_AFFILIATE_LINK">Noise ColorFit Pulse</a></li>
-        <li><a href="YOUR_AMAZON_AFFILIATE_LINK">boAt Wave Lite</a></li>
-      </ul>
-    </section>
+<section class="blog-post">
+  <h2>Best Ayurvedic Medicines for Weight Loss</h2>
+  <p>Looking for natural and safe ways to lose weight? Here are some top Ayurvedic supplements available on Amazon:</p>
+  <ul>
+    <li><a href="YOUR_AMAZON_AFFILIATE_LINK">Kapiva Get Slim Ayurvedic Juice</a> – Supports fat burn and improves digestion.</li>
+    <li><a href="YOUR_AMAZON_AFFILIATE_LINK">Dabur Medohar Vati</a> – A traditional formula for managing weight naturally.</li>
+    <li><a href="YOUR_AMAZON_AFFILIATE_LINK">Organic India Triphala</a> – Helps detox and supports metabolism.</li>
+    <li><a href="YOUR_AMAZON_AFFILIATE_LINK">Himalaya AyurSlim Capsules</a> – Made with herbs like Garcinia and Guggul.</li>
+  </ul>
+</section>
+
   </main>
   <footer>
     <p>&copy; 2025 Subham Biswal. All rights reserved.</p>
